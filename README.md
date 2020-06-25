@@ -1,2 +1,1 @@
-# rej
-Sketch Romeo e Julietta
+# Romeo e Julietta
